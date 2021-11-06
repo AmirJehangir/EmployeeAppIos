@@ -1,0 +1,39 @@
+
+/* Class = "UIButton"; normalTitle = "Add"; ObjectID = "5ux-3q-HgE"; */
+"5ux-3q-HgE.normalTitle" = "Add";
+
+/* Class = "UILabel"; text = "Username"; ObjectID = "7I1-uq-Yc1"; */
+"7I1-uq-Yc1.text" = "Username";
+
+/* Class = "UILabel"; text = "Emp Name"; ObjectID = "Ew4-NQ-DNR"; */
+"Ew4-NQ-DNR.text" = "Emp Name";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "FBB-kT-M4p"; */
+"FBB-kT-M4p.normalTitle" = "Update";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "G1V-YY-sc1"; */
+"G1V-YY-sc1.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "Salary :"; ObjectID = "Klx-q7-mQW"; */
+"Klx-q7-mQW.text" = "Salary :";
+
+/* Class = "UILabel"; text = "Name :"; ObjectID = "Xoz-3Z-JYf"; */
+"Xoz-3Z-JYf.text" = "Name :";
+
+/* Class = "UIButton"; normalTitle = "Sign in"; ObjectID = "gPw-ga-zfC"; */
+"gPw-ga-zfC.normalTitle" = "Sign in";
+
+/* Class = "UIButton"; normalTitle = "Sign up"; ObjectID = "hIJ-oC-YRF"; */
+"hIJ-oC-YRF.normalTitle" = "Sign up";
+
+/* Class = "UILabel"; text = "Password"; ObjectID = "jD8-0T-qxy"; */
+"jD8-0T-qxy.text" = "Password";
+
+/* Class = "UILabel"; text = "Age :"; ObjectID = "jpj-Nb-JVd"; */
+"jpj-Nb-JVd.text" = "Age :";
+
+/* Class = "UILabel"; text = "Emp Age"; ObjectID = "kEv-hq-F3E"; */
+"kEv-hq-F3E.text" = "Emp Age";
+
+/* Class = "UILabel"; text = "Emp Salary"; ObjectID = "y3B-cK-usm"; */
+"y3B-cK-usm.text" = "Emp Salary";
